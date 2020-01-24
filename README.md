@@ -1,5 +1,6 @@
 # Github_dns_hosts
 #### 一篇关于修复github图片加载问题的文章之备份
+#### 原文地址: https://reishin.me/github-dns/
 ---
 ## 问题
 
